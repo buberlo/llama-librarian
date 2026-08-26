@@ -1,0 +1,3 @@
+# Placeholder so Git tracks the local data directory.
+# Llama Librarian creates its SQLite database here unless the
+# database path is overridden in .env.
